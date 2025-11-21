@@ -9,4 +9,4 @@ El proyecto demuestra el uso de HTML semántico, formularios y listas, desplegad
 [Diego Rodriguez Rojas]
 
 ## Enlace al Proyecto
-(Aquí pondremos el link en el último paso)
+(https://200300350-web.github.io/kaan-journey-web/)
